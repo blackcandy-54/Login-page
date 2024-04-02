@@ -1,0 +1,20 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "simple login page with the background mouse click event",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "nodemon server.js"
+  },
+  "author": "balasurya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "ejs-layout": "^1.0.15",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0"
+  }
+}
